@@ -36,6 +36,7 @@ section {
   padding: 2rem;
   gap: 1rem;
   transition: scale 0.5s;
+  border: 1px solid var(--Lightgray);
 }
 
 main section:nth-child(1) {
@@ -46,6 +47,7 @@ main section:nth-child(2) {
 }
 main section:nth-child(3) {
   background-color: var(--White);
+  
 }
 main section:nth-child(4) {
   background-color: var(--Verydarkblackishblue);
