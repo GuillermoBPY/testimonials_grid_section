@@ -71,9 +71,8 @@ figure {
   border: 2px solid var(--Lightgray);
 }
 section img {
-  width: 110%;
-  display: inline;
-  text-align: center;
+  width: 100%;
+  display: block;
 }
 section:nth-child(4) figure {
   border: 2px solid var(--Moderateviolet);
